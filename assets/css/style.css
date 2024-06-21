@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'YekanBakhVF';
+    src: url("../../static/fonts/YekanBakh-VF.ttf");
+}
+body {
+    font-family: 'YekanBakhVF', sans-serif;
+}
+.dark-gray-gradient{
+    background: linear-gradient(90deg, #2C2E30 -0.76%, #0E0E0E 50%);
+}

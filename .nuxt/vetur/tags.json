@@ -1,0 +1,50 @@
+{
+  "TheFooter": {
+    "description": "Auto imported from components/TheFooter.vue"
+  },
+  "TheHeader": {
+    "description": "Auto imported from components/TheHeader.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/pagination.vue"
+  },
+  "CharacterCard": {
+    "description": "Auto imported from components/character/Card.vue"
+  },
+  "CharacterCategory": {
+    "description": "Auto imported from components/character/Category.vue"
+  },
+  "CharacterList": {
+    "description": "Auto imported from components/character/List.vue"
+  },
+  "CharacterSection": {
+    "description": "Auto imported from components/character/Section.vue"
+  },
+  "CharacterSkeletonLoader": {
+    "description": "Auto imported from components/character/SkeletonLoader.vue"
+  },
+  "BaseAlert": {
+    "description": "Auto imported from components/base/Alert.vue"
+  },
+  "BaseButton": {
+    "description": "Auto imported from components/base/Button.vue"
+  },
+  "BaseEllipse": {
+    "description": "Auto imported from components/base/Ellipse.vue"
+  },
+  "BaseForm": {
+    "description": "Auto imported from components/base/Form.vue"
+  },
+  "BaseIcon": {
+    "description": "Auto imported from components/base/Icon.vue"
+  },
+  "BaseImage": {
+    "description": "Auto imported from components/base/Image.vue"
+  },
+  "BaseInput": {
+    "description": "Auto imported from components/base/Input.vue"
+  },
+  "SearchForm": {
+    "description": "Auto imported from components/search/Form.vue"
+  }
+}

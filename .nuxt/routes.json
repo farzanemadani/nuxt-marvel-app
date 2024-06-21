@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/farzane/github/new/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_439824f5"
+  },
+  {
+    "name": "character-id",
+    "path": "/character/:id?",
+    "component": "/home/farzane/github/new/pages/character/_id.vue",
+    "chunkName": "pages/character/_id",
+    "_name": "_c4b88412"
+  }
+]
